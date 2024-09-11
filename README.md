@@ -6,6 +6,8 @@ I built a simple E-Commerce application using React and Redux, where I displayed
 I also showed the items added to the cart, and allowed users to remove items from the cart. 
 With Redux Toolkit, all this information is globally available throughout the application.
 
+*Node modules not included that are necessary for running the Redux toolkits and the hooks, you'll need to install @reduxjs/toolkit and react-redux as a third-party module.
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
